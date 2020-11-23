@@ -35,5 +35,5 @@ require (
 	golang.org/x/tools v0.0.0-20201121010211-780cb80bd7fb
 	google.golang.org/api v0.29.0
 	google.golang.org/genproto v0.0.0-20200527145253-8367513e4ece // indirect
-	gotest.tools/gotestsum v0.5.2
+	gotest.tools/gotestsum v0.6.0
 )
